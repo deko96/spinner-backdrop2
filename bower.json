@@ -1,0 +1,28 @@
+{
+  "name": "spinner-backdrop",
+  "description": "Shows a `paper-spinner` and a backdrop overlay with a great fade-out animation to entire container. Perfect for page route transition!",
+  "version": "2.0.0",
+  "homepage": "https://ingressorapidowebcomponents.github.io/components/pdf-browser-viewer",
+  "main": "spinner-backdrop.html",
+  "authors": [
+    "Andrew Willard (https://github.com/andrew-silva-movile)"
+  ],
+  "keywords": [
+    "web-components",
+    "web-component",
+    "polymer",
+    "spinner",
+    "route",
+    "transition",
+    "page",
+    "loading"
+  ],
+  "dependencies": {
+    "paper-spinner": "PolymerElements/paper-spinner#^2.1.0",
+    "neon-animation": "PolymerElements/neon-animation#^2.2.1",
+    "iron-component-page": "PolymerElements/iron-component-page#^3.0.1"
+  },
+  "devDependencies": {
+    "webcomponentsjs": "^1.1.0"
+  }
+}
